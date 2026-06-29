@@ -211,3 +211,46 @@ If you are evaluating them, would you like me to show you how Heirs Life compare
 To help narrow down your final choice, which of these factors matters most to you: protecting against inflation, securing a bulk payout for your family, or using a great mobile app to track your funds?
 
 
+
+The comprehensive features of the Custodian Annuity Plan, as detailed across official [Custodian Life Assurance](https://custodianlifeassurance.com/) policy documents and product specifications, are outlined below: [1, 2] 
+## 1. Core Structuring Features
+
+* 
+* Dual Plan Options: Available as an Immediate Annuity (exchanging a lump sum for instant lifelong payouts) or a Deferred Annuity (making systematic contributions over time to receive payouts starting at a future retirement date). [3, 4] 
+* Guaranteed Payout Periods: Policyholders can choose a minimum guaranteed payout window of 0 years, 5 years, or 10 years. If the annuitant passes away during this period, the remaining guaranteed payments transfer directly to named beneficiaries. After this period ends, payouts continue solely for the lifetime of the annuitant. [2, 3, 5] 
+* Flexible Funding Frequencies: For the deferred accumulation phase, premiums can be remitted Monthly, Quarterly, Bi-annually, or Annually. [2] 
+* Escalation Options: To combat inflation, plans can be configured with either a 0% flat rate or a 5% escalating rate to increase income over time. [3, 5] 
+* 
+
+## 2. Payout and Distribution Features
+
+* 
+* Automated Payments: Disbursements are managed digitally on an online, real-time basis and executed through standing orders straight into your bank account. [3, 5] 
+* Non-Surrenderable Lifetime Income: Once active, the contract provides an uninterrupted stream of income for life. This systematically passes the underlying investment and longevity risks over to the life office. [3, 5] 
+* 
+
+## 3. Financial and Regulatory Safeguards
+
+* 
+* Optional Death Benefit Cover: Policyholders can opt into an additional life insurance component that guarantees a payout equal to 5 times the annual annuity amount to beneficiaries if death occurs.
+* Tax Efficiencies: The premiums paid and growth generated during the plan lifecycle qualify for legal tax incentives and structural relief.
+* Regulatory Compliance: Fully compliant with the Pension Reform Act guidelines and regulated under NAICOM Licence RIC No. 010(L). [2, 3, 5, 6] 
+* 
+
+## 4. Eligibility and Requirements
+
+* 
+* Age Limits: The standard entry age ranges from 18 to 60 years for wealth accumulation.
+* Policy Duration: The minimum timeframe allowed for a deferred investment strategy is 5 years.
+* Required Documentation: Completion requires a physical [Annuity Proposal Form](https://custodianlifeassurance.com/wp-content/uploads/2025/06/CLA_AnnuityPlan_Form1.pdf) accompanied by a passport photograph, proof of residence, a valid government ID, and a Retirement Savings Account (RSA) PIN (if funding via a Pension Fund Administrator). [1, 2, 7] 
+* 
+
+Would you like me to help you calculate an estimation of your future payouts based on your age, or do you need a breakdown of how the 5% escalating option alters long-term returns?
+
+[1] [https://custodianlifeassurance.com](https://custodianlifeassurance.com/wp-content/uploads/2025/06/CLA_AnnuityPlan_Form1.pdf)
+[2] [https://custodianlifeassurance.com](https://custodianlifeassurance.com/wp-content/uploads/2025/06/CLA_AnnuityPlan_Form1.pdf)
+[3] [https://custodianlifeassurance.com](https://custodianlifeassurance.com/annuity/immediate-annuity/)
+[4] [https://custodianlifeassurance.com](https://custodianlifeassurance.com/annuity/deferred-annuity/)
+[5] [https://custodianlifeassurance.com](https://custodianlifeassurance.com/annuity/immediate-annuity/)
+[6] [https://www.pencom.gov.ng](https://www.pencom.gov.ng/wp-content/uploads/2020/09/Revised-Regulation-on-RLA-2020.pdf)
+[7] [https://www.facebook.com](https://www.facebook.com/CustodianPLC/posts/at-custodian-our-life-insurance-products-have-additional-benefits-depending-on-y/4896396853781289/)
